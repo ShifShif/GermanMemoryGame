@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">German Memory Game</string>
+    <string name="game_over_message">Well done! would you like to play again?</string>
+    <string name="quit_game">Quit</string>
+    <string name="stay_here">Stay here</string>
+    <string name="replay">Play again</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
